@@ -24,21 +24,9 @@ You chose the wrong site name, please try again!
 ```
 ##
 
+
+
 ## Task 2
-
-Write a code to suggest automatically activates for you 
-
-```bash
-Here is a random activity for you:
-```
-
-```bash
-Do you want to try it? (y/N)
-```
-
-##
-
-## Task 3
 
 Get your public IP
 
@@ -48,7 +36,7 @@ your public ip .....
 ```
 ##
 
-## Task 4
+## Task 3
 
 Get your location 
 
@@ -58,7 +46,7 @@ your location is .....
 
 ##
 
-## Task 5
+## Task 4
 
 Using PyAutoGUI 
 - To open vscode 
